@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Mon, 08 Jan 2024 16:57:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 19:33:44 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,58 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Молекулярная электроника. Приборы размером с молекулу</title>
+			<description>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</description>
+			<content:encoded>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</content:encoded>
+			<pubDate>Tue, 09 Jan 2024 19:33:44 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2746787/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2746787</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2746787"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1828413/r/redirect"/>
+			<itunes:summary>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Астольф де Кюстин и вечное проклятие Запада в адрес вечной России</title>
+			<description>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии и МПГУ.</description>
+			<content:encoded>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии и МПГУ.</content:encoded>
+			<pubDate>Sun, 07 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2746761/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2746761</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2746761"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3003410/r/redirect"/>
+			<itunes:summary>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии и МПГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Сердце и смерть. Почему мы не умеем беречь наше сердце</title>
+			<description>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</description>
+			<content:encoded>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</content:encoded>
+			<pubDate>Thu, 28 Dec 2023 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2746763/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2746763</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2746763"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2282004/r/redirect"/>
+			<itunes:summary>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Иннопрактика" и акселератор Менделеев. Как создать химический стартап</title>
+			<description>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Александр Владимирович Масленников, управляющий партнер компании «Менделеев Венчурные Инвестиции» (Стартап-студия РХТУ), Альберт Добаевич Болатчиев, кандидат медицинских наук, и генеральный директор ООО «Альбоген, Александра Андреевна Редькина, генеральный директор ООО «Р-Полимер».</description>
+			<content:encoded>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Александр Владимирович Масленников, управляющий партнер компании «Менделеев Венчурные Инвестиции» (Стартап-студия РХТУ), Альберт Добаевич Болатчиев, кандидат медицинских наук, и генеральный директор ООО «Альбоген, Александра Андреевна Редькина, генеральный директор ООО «Р-Полимер».</content:encoded>
+			<pubDate>Wed, 27 Dec 2023 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2746762/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2746762</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2746762"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1885557/r/redirect"/>
+			<itunes:summary>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Александр Владимирович Масленников, управляющий партнер компании «Менделеев Венчурные Инвестиции» (Стартап-студия РХТУ), Альберт Добаевич Болатчиев, кандидат медицинских наук, и генеральный директор ООО «Альбоген, Александра Андреевна Редькина, генеральный директор ООО «Р-Полимер».</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>МГТУ, Приоритет-2030 и квантовая гонка с Google, IBM и Microsoft</title>
 			<description>Начало цикла "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Михаил Валерьевич Гордин, ректор МГТУ им. Н.Э. Баумана, и Илья Анатольевич Родионов, директор Научно-образовательного центра "Функциональные Микро / Наносистемы" МГТУ им. Н.Э. Баумана.</description>
