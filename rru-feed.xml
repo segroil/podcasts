@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Mon, 15 Jan 2024 18:57:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 16:38:15 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,84 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Атеросклероз: причины, риски, ишемия, инфаркты, инсульты и терапия</title>
+			<description>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</description>
+			<content:encoded>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</content:encoded>
+			<pubDate>Thu, 18 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748955/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748955</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748955"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2065779/r/redirect"/>
+			<itunes:summary>Цикл "Сеченовский. Наука о жизни". Гость эфира – Андрей Николаевич Панков, кандидат медицинских наук, заведующий отделением кардиохирургии Центра кардиоангиологии Сеченовского университета.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Как люди открывали астероиды и как поняли их опасность</title>
+			<description>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</description>
+			<content:encoded>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</content:encoded>
+			<pubDate>Wed, 17 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748954/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748954</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748954"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1910933/r/redirect"/>
+			<itunes:summary>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Брежнев и де Голль. Примирение во время мирового кризиса</title>
+			<description>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</description>
+			<content:encoded>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</content:encoded>
+			<pubDate>Tue, 16 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748388/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748388</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748388"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4731558/r/redirect"/>
+			<itunes:summary>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Забытая Даурия – история освоения. Русские, дауры и маньчжуры в Приморье</title>
+			<description>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</description>
+			<content:encoded>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</content:encoded>
+			<pubDate>Mon, 15 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748385/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748385</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748385"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4729424/r/redirect"/>
+			<itunes:summary>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Культурная революция Екатерины Великой</title>
+			<description>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</description>
+			<content:encoded>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</content:encoded>
+			<pubDate>Sun, 14 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748384/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748384</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748384"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1363955/r/redirect"/>
+			<itunes:summary>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Стресс: что это такое и как мы реагируем на нагрузки</title>
+			<description>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</description>
+			<content:encoded>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</content:encoded>
+			<pubDate>Thu, 11 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2748383/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2748383</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2748383"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3011962/r/redirect"/>
+			<itunes:summary>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Новые рубежи Римской империи. Победы и катастрофы</title>
 			<description>Цикл "История Рима". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
