@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sat, 27 Jan 2024 17:36:49 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 04 Feb 2024 13:00:52 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,45 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Социализация или национализация земли и разгон Учредительного собрания</title>
+			<description>Цикл "Земли и воли". В гостях у Российского радиоуниверситета Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</description>
+			<content:encoded>Цикл "Земли и воли". В гостях у Российского радиоуниверситета Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</content:encoded>
+			<pubDate>Sun, 28 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2751047/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2751047</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2751047"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1761323/r/redirect"/>
+			<itunes:summary>Цикл "Земли и воли". В гостях у Российского радиоуниверситета Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Современные технологии и засухи. Фермеры или холдинги: кто справится лучше</title>
+			<description>Цикл "Цифровое сельское хозяйство". Гость эфира – Алексей Владимирович Трубников, кандидат биологических наук, генеральный директор Ассоциации "ЭлектронАгро".</description>
+			<content:encoded>Цикл "Цифровое сельское хозяйство". Гость эфира – Алексей Владимирович Трубников, кандидат биологических наук, генеральный директор Ассоциации "ЭлектронАгро".</content:encoded>
+			<pubDate>Thu, 25 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2751046/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2751046</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2751046"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3248723/r/redirect"/>
+			<itunes:summary>Цикл "Цифровое сельское хозяйство". Гость эфира – Алексей Владимирович Трубников, кандидат биологических наук, генеральный директор Ассоциации "ЭлектронАгро".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Северная война продолжается. Лифляндия и Прутский поход Петра</title>
+			<description>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
+			<content:encoded>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</content:encoded>
+			<pubDate>Wed, 24 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2751045/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2751045</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2751045"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3458022/r/redirect"/>
+			<itunes:summary>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Европейский Союз и страны бывшего СССР: железный кулак в бархатной перчатке</title>
 			<description>Цикл "Пространство Большой игры". Гость эфира – Наталья Валерьевна Ерёмина, доктор политических наук, профессор СПбГУ.</description>
