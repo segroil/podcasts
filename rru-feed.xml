@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 04 Feb 2024 13:00:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 19:41:58 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,110 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Охота на опасные астероиды. Грубая и мягкая сила</title>
+			<description>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</description>
+			<content:encoded>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</content:encoded>
+			<pubDate>Wed, 07 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752950/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752950</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752950"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2696683/r/redirect"/>
+			<itunes:summary>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Сколько на самом деле было сталинских ударов: от измора к сокрушению</title>
+			<description>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</description>
+			<content:encoded>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</content:encoded>
+			<pubDate>Tue, 06 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752952/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752952</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752952"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1176304/r/redirect"/>
+			<itunes:summary>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Периодический закон Менделеева глазами физика</title>
+			<description>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</description>
+			<content:encoded>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</content:encoded>
+			<pubDate>Mon, 05 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752951/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752951</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752951"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2020437/r/redirect"/>
+			<itunes:summary>Цикл "МИФИ. Создание энергии". Гость эфира – Константин Петрович Катин, доктор физико-математических наук, профессор, ведущий научный сотрудник Центра радиофотоники и СВЧ-технологий Института нанотехнологий в электронике, спинтронике и фотонике НИЯУ МИФИ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Можно ли победить русофобию Запада. История с открытым финалом</title>
+			<description>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</description>
+			<content:encoded>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</content:encoded>
+			<pubDate>Sun, 04 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752260/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752260</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752260"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2990682/r/redirect"/>
+			<itunes:summary>Цикл "Русофобия. История изобретения страха". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Имперские певцы свободы. Золотой век Октавиана Августа</title>
+			<description>Цикл «История Рима». Гость эфира – Игорь Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
+			<content:encoded>Цикл «История Рима». Гость эфира – Игорь Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</content:encoded>
+			<pubDate>Thu, 01 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752259/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752259</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752259"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/537796/r/redirect"/>
+			<itunes:summary>Цикл «История Рима». Гость эфира – Игорь Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Иннопрактика" и МИСиС: когда студенческие команды круто решают взрослые инженерные задачи</title>
+			<description>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Лев Голицын, директор НОЦ Цифровые решения Университета МИСиС, Любовь Лазарева, лидер проекта Optimice, Анастасия Халимова, руководитель студенческого КБ МИСиС.</description>
+			<content:encoded>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Лев Голицын, директор НОЦ Цифровые решения Университета МИСиС, Любовь Лазарева, лидер проекта Optimice, Анастасия Халимова, руководитель студенческого КБ МИСиС.</content:encoded>
+			<pubDate>Wed, 31 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752258/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752258</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752258"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3025642/r/redirect"/>
+			<itunes:summary>Цикл "Иннопрактика. Искусство создания будущего". Гости эфира – Лев Голицын, директор НОЦ Цифровые решения Университета МИСиС, Любовь Лазарева, лидер проекта Optimice, Анастасия Халимова, руководитель студенческого КБ МИСиС.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>МГТУ им. Баумана: Современное энергомашиностроение: когда сроки разработки жёстче военных</title>
+			<description>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Максим Сергеевич Французов, директор научно-исследовательского института «Энергетическое машиностроение» МГТУ им. Н.Э. Баумана, и Сергей Геннадиевич Ивахненко, директор Научно-образовательного центра «Ионно-плазменные технологии».</description>
+			<content:encoded>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Максим Сергеевич Французов, директор научно-исследовательского института «Энергетическое машиностроение» МГТУ им. Н.Э. Баумана, и Сергей Геннадиевич Ивахненко, директор Научно-образовательного центра «Ионно-плазменные технологии».</content:encoded>
+			<pubDate>Tue, 30 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752257/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752257</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752257"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4767591/r/redirect"/>
+			<itunes:summary>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Максим Сергеевич Французов, директор научно-исследовательского института «Энергетическое машиностроение» МГТУ им. Н.Э. Баумана, и Сергей Геннадиевич Ивахненко, директор Научно-образовательного центра «Ионно-плазменные технологии».</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>На острие науки. Разговор с Президентом: поддержка исследований и научное волонтерство</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 29 Jan 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2752256/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2752256</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2752256"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2080863/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Социализация или национализация земли и разгон Учредительного собрания</title>
 			<description>Цикл "Земли и воли". В гостях у Российского радиоуниверситета Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</description>
