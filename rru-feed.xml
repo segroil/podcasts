@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Mon, 12 Feb 2024 19:41:58 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 18 Feb 2024 08:53:36 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,84 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Психофизиологические последствия стресса. Как и почему мы ломаемся</title>
+			<description>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</description>
+			<content:encoded>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</content:encoded>
+			<pubDate>Thu, 15 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754634/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754634</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754634"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1968184/r/redirect"/>
+			<itunes:summary>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Фронт Северной войны движется на запад. Меншиков идёт в Померанию</title>
+			<description>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
+			<content:encoded>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</content:encoded>
+			<pubDate>Wed, 14 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754633/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754633</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754633"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1315500/r/redirect"/>
+			<itunes:summary>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Брежнев и две Германии в 1964-1974 годах</title>
+			<description>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</description>
+			<content:encoded>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</content:encoded>
+			<pubDate>Tue, 13 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754180/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754180</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754180"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4244727/r/redirect"/>
+			<itunes:summary>Цикл "Брежневская партия". Гость эфира – Евгений Юрьевич Спицын, историк.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Какие русские люди пришли на Амур в XVII веке</title>
+			<description>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</description>
+			<content:encoded>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</content:encoded>
+			<pubDate>Mon, 12 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754632/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754632</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754632"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2308674/r/redirect"/>
+			<itunes:summary>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русское искусство при Павле I и Александре I: расцвет русского классицизма</title>
+			<description>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</description>
+			<content:encoded>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</content:encoded>
+			<pubDate>Sun, 11 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754631/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754631</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754631"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/3862061/r/redirect"/>
+			<itunes:summary>Цикл "Сретенский". Гость эфира – Олег Викторович Стародубцев, кандидат философских наук, кандидат богословия, заведующий кафедрой церковной истории Сретенской духовной академии, доцент.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Пересадка мышц и восстановление костей. Новейшие технологии онкоортопедии</title>
+			<description>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Денис Игоревич Софронов, кандидат медицинских наук, старший научный сотрудник вертебральной онкологии НМИЦ онкологии им. Н.Н. Блохина.</description>
+			<content:encoded>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Денис Игоревич Софронов, кандидат медицинских наук, старший научный сотрудник вертебральной онкологии НМИЦ онкологии им. Н.Н. Блохина.</content:encoded>
+			<pubDate>Thu, 08 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2754630/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2754630</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2754630"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2941565/r/redirect"/>
+			<itunes:summary>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Денис Игоревич Софронов, кандидат медицинских наук, старший научный сотрудник вертебральной онкологии НМИЦ онкологии им. Н.Н. Блохина.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Охота на опасные астероиды. Грубая и мягкая сила</title>
 			<description>Цикл "Исследование и освоение астероидов и комет". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</description>
