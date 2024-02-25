@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 18 Feb 2024 08:53:36 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Feb 2024 13:05:52 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,32 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Россия в мировой биотехнологической революции и биоконцентраторы энергии</title>
+			<description>Цикл "КУРЧАТОВСКИЙ". Гость эфира – Раиф Гаянович Василов, доктор биологических наук, заместитель руководителя по научной работе Курчатовского комплекса НБИКС-природоподобных технологий, президент Общества биотехнологов им. Овчинникова.</description>
+			<content:encoded>Цикл "КУРЧАТОВСКИЙ". Гость эфира – Раиф Гаянович Василов, доктор биологических наук, заместитель руководителя по научной работе Курчатовского комплекса НБИКС-природоподобных технологий, президент Общества биотехнологов им. Овчинникова.</content:encoded>
+			<pubDate>Mon, 19 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2755272/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2755272</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2755272"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2372706/r/redirect"/>
+			<itunes:summary>Цикл "КУРЧАТОВСКИЙ". Гость эфира – Раиф Гаянович Василов, доктор биологических наук, заместитель руководителя по научной работе Курчатовского комплекса НБИКС-природоподобных технологий, президент Общества биотехнологов им. Овчинникова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Умеет ли человечество хранить энергию</title>
+			<description>Цикл "МИФИ: создание энергии". Гость эфира – Владимир Николаевич Решетов, доктор физико-математических наук, профессор МИФИ и МФТИ.</description>
+			<content:encoded>Цикл "МИФИ: создание энергии". Гость эфира – Владимир Николаевич Решетов, доктор физико-математических наук, профессор МИФИ и МФТИ.</content:encoded>
+			<pubDate>Sun, 18 Feb 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2755075/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2755075</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2755075"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2973247/r/redirect"/>
+			<itunes:summary>Цикл "МИФИ: создание энергии". Гость эфира – Владимир Николаевич Решетов, доктор физико-математических наук, профессор МИФИ и МФТИ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Психофизиологические последствия стресса. Как и почему мы ломаемся</title>
 			<description>Цикл "Умное здоровье". Гость эфира – Иван Вячеславович Коновалов, кандидат медицинских наук, педиатр, инфекционист, доцент РНИМУ им. Пирогова.</description>
