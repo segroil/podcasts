@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Wed, 06 Mar 2024 20:03:52 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 09 Mar 2024 18:21:05 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,19 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Астероидная экономика. Исследования и освоение астероидов</title>
+			<description>Цикл "Исследование и освоение комет и астероидов". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</description>
+			<content:encoded>Цикл "Исследование и освоение комет и астероидов". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</content:encoded>
+			<pubDate>Wed, 06 Mar 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2758651/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2758651</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2758651"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/1910933/r/redirect"/>
+			<itunes:summary>Цикл "Исследование и освоение комет и астероидов". Гость эфира – Леонид Владимирович Еленин, астроном, сотрудник Института прикладной математики им. Келдыша РАН.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Сражение в грязи весной 1944 года. Как немцы сожгли свое оружие блицкрига</title>
 			<description>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</description>
