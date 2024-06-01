@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Tue, 21 May 2024 21:02:10 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 01 Jun 2024 17:29:53 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,123 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Как победить бессмертные клетки раковой опухоли</title>
+			<description>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Михаил Александрович Красильников, доктор биологических наук, профессор, директор института канцерогенеза НМИЦ им. Блохина.</description>
+			<content:encoded>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Михаил Александрович Красильников, доктор биологических наук, профессор, директор института канцерогенеза НМИЦ им. Блохина.</content:encoded>
+			<pubDate>Thu, 30 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2775030/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2775030</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2775030"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Михаил Александрович Красильников, доктор биологических наук, профессор, директор института канцерогенеза НМИЦ им. Блохина.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Инвестиции в прикладную науку — линейные, проектные, экосистемные</title>
+			<description>Цикл "Иннопрактика. Искусство создания будущего". Гость эфира – Дан Станиславович Медовников, директор Института менеджмента инноваций ВШБ НИУ ВШЭ, участник исследования "Российская прикладная наука: роль университетов, исследовательских организаций и бизнеса в приоритетных секторах", проведенного компанией "Иннопрактика".</description>
+			<content:encoded>Цикл "Иннопрактика. Искусство создания будущего". Гость эфира – Дан Станиславович Медовников, директор Института менеджмента инноваций ВШБ НИУ ВШЭ, участник исследования "Российская прикладная наука: роль университетов, исследовательских организаций и бизнеса в приоритетных секторах", проведенного компанией "Иннопрактика".</content:encoded>
+			<pubDate>Wed, 29 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2774820/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2774820</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2774820"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Иннопрактика. Искусство создания будущего". Гость эфира – Дан Станиславович Медовников, директор Института менеджмента инноваций ВШБ НИУ ВШЭ, участник исследования "Российская прикладная наука: роль университетов, исследовательских организаций и бизнеса в приоритетных секторах", проведенного компанией "Иннопрактика".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Инженеры и Роботех, подводный робот-золотоискатель и Чукотка</title>
+			<description>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Кирилл Борисович Евсеев, д.т.н., профессор и первый заместитель заведующего кафедрой "Колесные машины", руководитель стратегического проекта "Роботех" программы развития "Приоритет 2030" МГТУ им. Н.Э. Баумана, и Константин Евгеньевич Бяков, к.т.н., и.о. заведующего кафедрой "Многоцелевые гусеничные машины и мобильные роботы".</description>
+			<content:encoded>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Кирилл Борисович Евсеев, д.т.н., профессор и первый заместитель заведующего кафедрой "Колесные машины", руководитель стратегического проекта "Роботех" программы развития "Приоритет 2030" МГТУ им. Н.Э. Баумана, и Константин Евгеньевич Бяков, к.т.н., и.о. заведующего кафедрой "Многоцелевые гусеничные машины и мобильные роботы".</content:encoded>
+			<pubDate>Tue, 28 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2774585/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2774585</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2774585"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "МГТУ им. Баумана. Русская инженерная школа". Гости эфира – Кирилл Борисович Евсеев, д.т.н., профессор и первый заместитель заведующего кафедрой "Колесные машины", руководитель стратегического проекта "Роботех" программы развития "Приоритет 2030" МГТУ им. Н.Э. Баумана, и Константин Евгеньевич Бяков, к.т.н., и.о. заведующего кафедрой "Многоцелевые гусеничные машины и мобильные роботы".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская химия. Новые города, научные центры, общество</title>
+			<description>Цикл "На острие науки". Гости эфира – Сергей Александрович Адонин, доктор химических наук, профессор РАН,  заместитель директора по научной работе Иркутского института химии им. А.Е. Фаворского Сибирского отделения РАН, член Координационного совета, член президиума Совета при Президенте Российской Федерации по науке и образованию, и Михаил Алексеевич Варфоломеев, кандидат химических наук, доцент, заведующий кафедрой разработки и эксплуатации месторождений трудноизвлекаемых углеводородов Казанского (Приволжского) федерального университета, член Совета при Президенте Российской Федерации по науке и образованию.</description>
+			<content:encoded>Цикл "На острие науки". Гости эфира – Сергей Александрович Адонин, доктор химических наук, профессор РАН,  заместитель директора по научной работе Иркутского института химии им. А.Е. Фаворского Сибирского отделения РАН, член Координационного совета, член президиума Совета при Президенте Российской Федерации по науке и образованию, и Михаил Алексеевич Варфоломеев, кандидат химических наук, доцент, заведующий кафедрой разработки и эксплуатации месторождений трудноизвлекаемых углеводородов Казанского (Приволжского) федерального университета, член Совета при Президенте Российской Федерации по науке и образованию.</content:encoded>
+			<pubDate>Mon, 27 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2774354/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2774354</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2774354"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "На острие науки". Гости эфира – Сергей Александрович Адонин, доктор химических наук, профессор РАН,  заместитель директора по научной работе Иркутского института химии им. А.Е. Фаворского Сибирского отделения РАН, член Координационного совета, член президиума Совета при Президенте Российской Федерации по науке и образованию, и Михаил Алексеевич Варфоломеев, кандидат химических наук, доцент, заведующий кафедрой разработки и эксплуатации месторождений трудноизвлекаемых углеводородов Казанского (Приволжского) федерального университета, член Совета при Президенте Российской Федерации по науке и образованию.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Интернационалисты против русских. Подавление крестьянских восстаний в 1918 году</title>
+			<description>Цикл "Земля и воля!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</description>
+			<content:encoded>Цикл "Земля и воля!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</content:encoded>
+			<pubDate>Sun, 26 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2774151/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2774151</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2774151"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Земля и воля!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</itunes:summary>
+			<itunes:duration>00:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Вирусы и наночастицы для создания лекарств для лечения генетических болезней</title>
+			<description>Цикл "Медицинская генетика для каждого". Гость эфира – Светлана Анатольевна Смирнихина, кандидат медицинских наук, заведующая лабораторией редактирования генома МГНЦ им. академика Бочкова.</description>
+			<content:encoded>Цикл "Медицинская генетика для каждого". Гость эфира – Светлана Анатольевна Смирнихина, кандидат медицинских наук, заведующая лабораторией редактирования генома МГНЦ им. академика Бочкова.</content:encoded>
+			<pubDate>Thu, 23 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2774356/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2774356</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2774356"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Медицинская генетика для каждого". Гость эфира – Светлана Анатольевна Смирнихина, кандидат медицинских наук, заведующая лабораторией редактирования генома МГНЦ им. академика Бочкова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Россия и международный проект термоядерного реактора ИТЭР. Управление плазмой</title>
+			<description>Цикл "МИФИ. Создание энергии". Гость эфира – Юрий Микаэлович Гаспарян, кандидат физико-математических наук, заведующий кафедрой физики плазмы НИЯУ МИФИ.</description>
+			<content:encoded>Цикл "МИФИ. Создание энергии". Гость эфира – Юрий Микаэлович Гаспарян, кандидат физико-математических наук, заведующий кафедрой физики плазмы НИЯУ МИФИ.</content:encoded>
+			<pubDate>Wed, 22 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2773429/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2773429</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2773429"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "МИФИ. Создание энергии". Гость эфира – Юрий Микаэлович Гаспарян, кандидат физико-математических наук, заведующий кафедрой физики плазмы НИЯУ МИФИ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Как вырастить и продать корову – генетического чемпиона. Закон и цифровизация</title>
+			<description>Цикл "Цифровое сельское хозяйство". Гость эфира – Сергей Николаевич Блюма, генеральный директор ООО "Континентал Технолоджис".</description>
+			<content:encoded>Цикл "Цифровое сельское хозяйство". Гость эфира – Сергей Николаевич Блюма, генеральный директор ООО "Континентал Технолоджис".</content:encoded>
+			<pubDate>Tue, 21 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2773194/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2773194</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2773194"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Цифровое сельское хозяйство". Гость эфира – Сергей Николаевич Блюма, генеральный директор ООО "Континентал Технолоджис".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская наука в Маньчжурии. От географии до изучения культуры</title>
+			<description>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</description>
+			<content:encoded>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</content:encoded>
+			<pubDate>Mon, 20 May 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2773195/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2773195</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2773195"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Славянская мифология, неоязычество и оптимизм русского мировоззрения</title>
 			<description>Цикл "Русское преображение. История русской мысли X-XVII веков". Гость эфира – Сергей Вячеславович Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</description>
