@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 14 Jul 2024 18:19:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Aug 2024 10:40:17 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,269 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Ливонская война: первое военное и идеологическое столкновение России и Запада</title>
+			<description>Цикл "Страшные сказки о России". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</description>
+			<content:encoded>Цикл "Страшные сказки о России". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</content:encoded>
+			<pubDate>Mon, 19 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2703917/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2703917</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2703917"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/2993557/r/redirect"/>
+			<itunes:summary>Цикл "Страшные сказки о России". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Россия в кривом зеркале Запада</title>
+			<description>Россия и Запад: страшные сказки о русских. Гость эфира –  Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</description>
+			<content:encoded>Россия и Запад: страшные сказки о русских. Гость эфира –  Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</content:encoded>
+			<pubDate>Tue, 13 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2679733/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2679733</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2679733"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Россия и Запад: страшные сказки о русских. Гость эфира –  Наталия Петровна Таньшина, доктор исторических наук, профессор РАНХиГС и МПГУ.</itunes:summary>
+			<itunes:duration>45:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Очень умная химия и новые "химические" города России</title>
+			<description>Цикл "Русская химия". Гость эфира – Андрей Иванов, доктор химических наук, директор ФИЦ Иркутский институт химии СО РАН им. Фаворского.</description>
+			<content:encoded>Цикл "Русская химия". Гость эфира – Андрей Иванов, доктор химических наук, директор ФИЦ Иркутский институт химии СО РАН им. Фаворского.</content:encoded>
+			<pubDate>Sun, 11 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2792400/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2792400</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2792400"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Русская химия". Гость эфира – Андрей Иванов, доктор химических наук, директор ФИЦ Иркутский институт химии СО РАН им. Фаворского.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Экзом – библиотека сборочного цеха наших клеток. Изучение генома</title>
+			<description>Цикл "Медицинская генетика для каждого". Гость эфира – Оксана Петровна Рыжкова, кандидат медицинских наук, руководитель Центра коллективного пользования "Геном",  доцент кафедры молекулярной генетики и биоинформатики Института высшего и дополнительного профессионального образования Медико-генетического научного центра имени академика Н.П. Бочкова.</description>
+			<content:encoded>Цикл "Медицинская генетика для каждого". Гость эфира – Оксана Петровна Рыжкова, кандидат медицинских наук, руководитель Центра коллективного пользования "Геном",  доцент кафедры молекулярной генетики и биоинформатики Института высшего и дополнительного профессионального образования Медико-генетического научного центра имени академика Н.П. Бочкова.</content:encoded>
+			<pubDate>Thu, 08 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2792399/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2792399</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2792399"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Медицинская генетика для каждого". Гость эфира – Оксана Петровна Рыжкова, кандидат медицинских наук, руководитель Центра коллективного пользования "Геном",  доцент кафедры молекулярной генетики и биоинформатики Института высшего и дополнительного профессионального образования Медико-генетического научного центра имени академика Н.П. Бочкова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Западная Африка в тисках неоколониализма Запада</title>
+			<description>Цикл "Пространство Большой игры". Гость эфира – Наталья Валерьевна Еремина, доктор политических наук, профессор СПбГУ.</description>
+			<content:encoded>Цикл "Пространство Большой игры". Гость эфира – Наталья Валерьевна Еремина, доктор политических наук, профессор СПбГУ.</content:encoded>
+			<pubDate>Wed, 07 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2792398/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2792398</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2792398"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Пространство Большой игры". Гость эфира – Наталья Валерьевна Еремина, доктор политических наук, профессор СПбГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Красная Армия у Варшавы. Мифы о варшавском восстании 1944 года</title>
+			<description>Цикл "Малоизвестная Великая Отечественная". Гость эфир – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</description>
+			<content:encoded>Цикл "Малоизвестная Великая Отечественная". Гость эфир – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</content:encoded>
+			<pubDate>Tue, 06 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2792397/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2792397</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2792397"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Малоизвестная Великая Отечественная". Гость эфир – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Калигула. Свирепый мальчик из хорошей семьи во главе Рима</title>
+			<description>"История Рима" с профессором Князьким. Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
+			<content:encoded>"История Рима" с профессором Князьким. Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</content:encoded>
+			<pubDate>Mon, 05 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2787833/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2787833</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2787833"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>"История Рима" с профессором Князьким. Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Золотой век" культуры Испании. От Сервантеса до Веласкеса</title>
+			<description>Цикл "История западной культуры от Возрождения до авангарда". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</description>
+			<content:encoded>Цикл "История западной культуры от Возрождения до авангарда". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</content:encoded>
+			<pubDate>Sun, 04 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2787621/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2787621</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2787621"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "История западной культуры от Возрождения до авангарда". Гость эфира – Наталия Петровна Таньшина, доктор исторических наук, профессор Президентской академии (РАНХиГС) и МПГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Популярная эндокринология, роль щитовидной железы и гормональные исследования</title>
+			<description>Цикл "Сеченовский. Наука о жизни". Гость эфира – Валентин Викторович Фадеев, член-корреспондент РАН, заведующей кафедрой эндокринологии №1, директор Клиники эндокринологии Сеченовского университета.</description>
+			<content:encoded>Цикл "Сеченовский. Наука о жизни". Гость эфира – Валентин Викторович Фадеев, член-корреспондент РАН, заведующей кафедрой эндокринологии №1, директор Клиники эндокринологии Сеченовского университета.</content:encoded>
+			<pubDate>Thu, 01 Aug 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2787625/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2787625</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2787625"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сеченовский. Наука о жизни". Гость эфира – Валентин Викторович Фадеев, член-корреспондент РАН, заведующей кафедрой эндокринологии №1, директор Клиники эндокринологии Сеченовского университета.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русский флот в эпоху перемен. Новые старые вызовы</title>
+			<description>Цикл "Русский флот". Гость эфира – Илья Александрович Крамник, научный сотрудник Центра изучения стратегического планирования Института мировой экономики и международных отношений (ИМЭМО).</description>
+			<content:encoded>Цикл "Русский флот". Гость эфира – Илья Александрович Крамник, научный сотрудник Центра изучения стратегического планирования Института мировой экономики и международных отношений (ИМЭМО).</content:encoded>
+			<pubDate>Wed, 31 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2786935/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2786935</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2786935"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Русский флот". Гость эфира – Илья Александрович Крамник, научный сотрудник Центра изучения стратегического планирования Института мировой экономики и международных отношений (ИМЭМО).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская химия. Национальный проект "Новые материалы и химия"</title>
+			<description>Цикл"Русская химия". Гость эфира – Юлия Германовна Горбунова, академик РАН, профессор РАН, и.о. декана факультета "Фундаментальная физико-химическая инженерия" МГУ им. М.В. Ломоносова.</description>
+			<content:encoded>Цикл"Русская химия". Гость эфира – Юлия Германовна Горбунова, академик РАН, профессор РАН, и.о. декана факультета "Фундаментальная физико-химическая инженерия" МГУ им. М.В. Ломоносова.</content:encoded>
+			<pubDate>Tue, 30 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2786745/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2786745</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2786745"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл"Русская химия". Гость эфира – Юлия Германовна Горбунова, академик РАН, профессор РАН, и.о. декана факультета "Фундаментальная физико-химическая инженерия" МГУ им. М.В. Ломоносова.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Школьное ракетостроение. XIII Всероссийский чемпионат Воздушно-инженерной школы 2024</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 29 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2786499/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2786499</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2786499"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Страшный суд царевича Алексея, сына Петра Первого</title>
+			<description>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</description>
+			<content:encoded>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</content:encoded>
+			<pubDate>Sun, 28 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2786247/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2786247</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2786247"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Пётр Великий и его империя". Гость эфира – Игорь Олегович Князький, доктор исторических наук, профессор, почётный работник высшего профессионального образования России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Технологический суверенитет и опережающее развитие России</title>
+			<description>"Иннопрактика. Искусство создания будущего".&#xD;
+Гость эфира – Дмитрий Вагин, первый заместитель генерального директора АНО "Инновационный инжиниринговый центр".</description>
+			<content:encoded>"Иннопрактика. Искусство создания будущего".&#xD;
+Гость эфира – Дмитрий Вагин, первый заместитель генерального директора АНО "Инновационный инжиниринговый центр".</content:encoded>
+			<pubDate>Wed, 24 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2785626/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2785626</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2785626"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>"Иннопрактика. Искусство создания будущего".&#xD;
+Гость эфира – Дмитрий Вагин, первый заместитель генерального директора АНО "Инновационный инжиниринговый центр".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Создание новых технологий машиностроения в условиях санкций</title>
+			<description>Гость эфира – Александр Сергеевич Комшин, д.т.н., декан факультета "Машиностроительные технологии", заведующий кафедрой "Метрология и взаимозаменяемость", руководитель стратегического проекта "Университет для университетов" (U2U) "Приоритет 2030", и Владислав Анатольевич Фунтиков, заместитель директора Научно-исследовательского института "Конструкционных материалов и технологических процессов", директор Научно-образовательного центра "Центр аддитивных технологий".</description>
+			<content:encoded>Гость эфира – Александр Сергеевич Комшин, д.т.н., декан факультета "Машиностроительные технологии", заведующий кафедрой "Метрология и взаимозаменяемость", руководитель стратегического проекта "Университет для университетов" (U2U) "Приоритет 2030", и Владислав Анатольевич Фунтиков, заместитель директора Научно-исследовательского института "Конструкционных материалов и технологических процессов", директор Научно-образовательного центра "Центр аддитивных технологий".</content:encoded>
+			<pubDate>Tue, 23 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2785440/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2785440</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2785440"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Гость эфира – Александр Сергеевич Комшин, д.т.н., декан факультета "Машиностроительные технологии", заведующий кафедрой "Метрология и взаимозаменяемость", руководитель стратегического проекта "Университет для университетов" (U2U) "Приоритет 2030", и Владислав Анатольевич Фунтиков, заместитель директора Научно-исследовательского института "Конструкционных материалов и технологических процессов", директор Научно-образовательного центра "Центр аддитивных технологий".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Канцерогены вокруг нас. Усилители канцерогенов и профилактика рака</title>
+			<description>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Марианна Геннадьевна Якубовская, доктор медицинских наук, заведующая отделом химического канцерогенеза НМИЦ онкологии им. Блохина.</description>
+			<content:encoded>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Марианна Геннадьевна Якубовская, доктор медицинских наук, заведующая отделом химического канцерогенеза НМИЦ онкологии им. Блохина.</content:encoded>
+			<pubDate>Mon, 22 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2785193/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2785193</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2785193"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Центр им. Блохина. Рак и его излечение". Гость эфира – Марианна Геннадьевна Якубовская, доктор медицинских наук, заведующая отделом химического канцерогенеза НМИЦ онкологии им. Блохина.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Сибирские казачьи войска, большевики и Гражданская война</title>
+			<description>Цикл "Земли и воли!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</description>
+			<content:encoded>Цикл "Земли и воли!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</content:encoded>
+			<pubDate>Sun, 21 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2784937/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2784937</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2784937"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Земли и воли!". Гость эфира – Василий Жанович Цветков, доктор исторических наук, профессор МПГУ и ВГУ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Финансовая разведка в ядерном университете. Русский OSINT и аналитики будущего</title>
+			<description>Цикл "МИФИ. Создание энергии". Гость эфира – Павел Юрьевич Леонов, кандидат экономических наук, доцент кафедры финансового мониторинга Института финансовых технологий и экономической безопасности НИЯУ МИФИ, генеральный директор компании "Аудит Универсал".</description>
+			<content:encoded>Цикл "МИФИ. Создание энергии". Гость эфира – Павел Юрьевич Леонов, кандидат экономических наук, доцент кафедры финансового мониторинга Института финансовых технологий и экономической безопасности НИЯУ МИФИ, генеральный директор компании "Аудит Универсал".</content:encoded>
+			<pubDate>Wed, 17 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2784230/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2784230</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2784230"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "МИФИ. Создание энергии". Гость эфира – Павел Юрьевич Леонов, кандидат экономических наук, доцент кафедры финансового мониторинга Института финансовых технологий и экономической безопасности НИЯУ МИФИ, генеральный директор компании "Аудит Универсал".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Маньчжуры, свирепые властители Китая. Встреча с русскими на Амуре</title>
+			<description>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</description>
+			<content:encoded>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</content:encoded>
+			<pubDate>Mon, 15 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2783785/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2783785</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2783785"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сибирские древности". Гость эфира – Андрей Павлович Забияко, доктор философских наук, профессор, заведующий кафедрой религиоведения и истории Амурского государственного университета (Благовещенск).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Загадки Крещения Руси. Какими путями и какое Православие на Русь пришло</title>
+			<description>Цикл "Русское преображение. История русской мысли X-XVII веков". Гость эфира – Сергей Вячеславович Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</description>
+			<content:encoded>Цикл "Русское преображение. История русской мысли X-XVII веков". Гость эфира – Сергей Вячеславович Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</content:encoded>
+			<pubDate>Sun, 14 Jul 2024 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2783544/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2783544</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2783544"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Русское преображение. История русской мысли X-XVII веков". Гость эфира – Сергей Вячеславович Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Муковисцидоз. Генетическая профилактика и семейное счастье</title>
 			<description>Цикл "Медицинская генетика для каждого". Гость эфира – Елена Ивановна Кондратьева, заведующая научно-клиническим отделом муковисцидоза, д.м.н., профессор, врач высшей категории, заведующая кафедрой Генетики болезней дыхательной системы Института высшего и дополнительного профессионального образования МГНЦ им. академика Бочкова.</description>
