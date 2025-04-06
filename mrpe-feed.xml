@@ -10,7 +10,7 @@
 			<link>https://smotrim.ru/podcast/1641</link>
 		</image>
 		<generator>mave podcasts</generator>
-		<lastBuildDate>Thu, 03 Apr 2025 18:24:11 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 06 Apr 2025 13:33:11 GMT</lastBuildDate>
 		<pubDate>Fri, 29 Dec 2023 08:30:55 GMT</pubDate>
 		<copyright>2023 © Радио «Маяк». Все права защищены.</copyright>
 		<language>ru</language>
@@ -29,6 +29,19 @@
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Relationships"/>
 		</itunes:category>
+		<item>
+			<title>Опасная встреча с правдой: измена, вина и стыд</title>
+			<description>Психолог и психотерапевт Анатолий Добин анализирует сложную ситуацию через призму взаимоотношений трёх ключевых фигур классического литературного сюжета: Облонского, Долли и Правды. Что делать, если мужчина "спалился" на измене?</description>
+			<content:encoded>Психолог и психотерапевт Анатолий Добин анализирует сложную ситуацию через призму взаимоотношений трёх ключевых фигур классического литературного сюжета: Облонского, Долли и Правды. Что делать, если мужчина "спалился" на измене?</content:encoded>
+			<pubDate>Thu, 03 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2834942/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2834942</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2834942"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4700040/r/redirect"/>
+			<itunes:summary>Психолог и психотерапевт Анатолий Добин анализирует сложную ситуацию через призму взаимоотношений трёх ключевых фигур классического литературного сюжета: Облонского, Долли и Правды. Что делать, если мужчина "спалился" на измене?</itunes:summary>
+			<itunes:duration>39:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Всегда ли мы хотим знать правду?</title>
 			<description>Психолог и психотерапевт Анатолий Друзья рассуждает о том, что мы переживаем, когда встречаемся с правдой и почему зачастую хотим «развидеть» то, с чем встретились лицом к лицу. Почему, задавая вопрос о «правде», мы часто в глубине надеемся, что другой нам соврёт.</description>
