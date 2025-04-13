@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 06 Apr 2025 13:32:55 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 13 Apr 2025 17:43:52 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,71 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Вторая сибирская ссылка святителя Луки. Сражение за жизнь наших бойцов</title>
+			<description>Цикл "Сибирская сага святителя Луки (Войно-Ясенецкого)". Гость эфира – Семён Кожевников, кандидат экономических наук, магистр богословия, биограф святителя Луки (Войно-Ясенецкого).</description>
+			<content:encoded>Цикл "Сибирская сага святителя Луки (Войно-Ясенецкого)". Гость эфира – Семён Кожевников, кандидат экономических наук, магистр богословия, биограф святителя Луки (Войно-Ясенецкого).</content:encoded>
+			<pubDate>Thu, 10 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2836407/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2836407</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2836407"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сибирская сага святителя Луки (Войно-Ясенецкого)". Гость эфира – Семён Кожевников, кандидат экономических наук, магистр богословия, биограф святителя Луки (Войно-Ясенецкого).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Историческая память о Великой Отечественной</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 09 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2836406/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2836406</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2836406"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>От конфронтации Картера к ракетному кризису Рейгана</title>
+			<description>Цикл "Брежневская партия". Гость эфира – Евгений Спицын, историк.</description>
+			<content:encoded>Цикл "Брежневская партия". Гость эфира – Евгений Спицын, историк.</content:encoded>
+			<pubDate>Tue, 08 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2836058/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2836058</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2836058"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Брежневская партия". Гость эфира – Евгений Спицын, историк.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Любовь к химии – из школьного класса в научные лаборатории</title>
+			<description>Цикл "Русская химия". Гость эфира – Анна Карцова, доктор химических наук, профессор Санкт-Петербургского государственного университета.</description>
+			<content:encoded>Цикл "Русская химия". Гость эфира – Анна Карцова, доктор химических наук, профессор Санкт-Петербургского государственного университета.</content:encoded>
+			<pubDate>Mon, 07 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2836057/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2836057</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2836057"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Русская химия". Гость эфира – Анна Карцова, доктор химических наук, профессор Санкт-Петербургского государственного университета.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Ордынский плен. "Слово о погибели Русской Земли" и поиски рая на земле</title>
+			<description>Цикл "Русское преображение.  История русской мысли X-XVII веков". Гость эфира – Сергей Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</description>
+			<content:encoded>Цикл "Русское преображение.  История русской мысли X-XVII веков". Гость эфира – Сергей Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</content:encoded>
+			<pubDate>Sun, 06 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2836056/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2836056</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2836056"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Русское преображение.  История русской мысли X-XVII веков". Гость эфира – Сергей Перевезенцев, доктор исторических наук, профессор факультета политологии МГУ им. М.В. Ломоносова, русский писатель, историк и философ.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Ордынский плен. Слабая Москва становится духовным центром возрождения Руси</title>
 			<description/>
