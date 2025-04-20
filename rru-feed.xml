@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 13 Apr 2025 17:43:52 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 20 Apr 2025 17:14:15 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,32 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>"Невозможная" прозрачная керамика для изучения основ Вселенной и болезней людей</title>
+			<description>Цикл "Курчатовский". Гость эфира – Илья Комендо, кандидат химических наук, заместитель начальника отдела неорганических технологий Курчатовского комплекса химических исследований (ИРЕА).</description>
+			<content:encoded>Цикл "Курчатовский". Гость эфира – Илья Комендо, кандидат химических наук, заместитель начальника отдела неорганических технологий Курчатовского комплекса химических исследований (ИРЕА).</content:encoded>
+			<pubDate>Mon, 14 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2837407/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2837407</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2837407"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Курчатовский". Гость эфира – Илья Комендо, кандидат химических наук, заместитель начальника отдела неорганических технологий Курчатовского комплекса химических исследований (ИРЕА).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Жизнь древних людей на Афонтовой горе в Красноярске 30000 лет назад</title>
+			<description>Цикл "Сибирские древности с профессором Дроздовым". Гость эфира – Николай Дроздов, доктор исторических наук, директор Сибирского института международного инновационного университета, профессор кафедры истории России Сибирского федерального университета (Красноярск).</description>
+			<content:encoded>Цикл "Сибирские древности с профессором Дроздовым". Гость эфира – Николай Дроздов, доктор исторических наук, директор Сибирского института международного инновационного университета, профессор кафедры истории России Сибирского федерального университета (Красноярск).</content:encoded>
+			<pubDate>Sun, 13 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2837406/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2837406</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2837406"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сибирские древности с профессором Дроздовым". Гость эфира – Николай Дроздов, доктор исторических наук, директор Сибирского института международного инновационного университета, профессор кафедры истории России Сибирского федерального университета (Красноярск).</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Вторая сибирская ссылка святителя Луки. Сражение за жизнь наших бойцов</title>
 			<description>Цикл "Сибирская сага святителя Луки (Войно-Ясенецкого)". Гость эфира – Семён Кожевников, кандидат экономических наук, магистр богословия, биограф святителя Луки (Войно-Ясенецкого).</description>

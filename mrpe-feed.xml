@@ -10,7 +10,7 @@
 			<link>https://smotrim.ru/podcast/1641</link>
 		</image>
 		<generator>mave podcasts</generator>
-		<lastBuildDate>Sun, 13 Apr 2025 17:43:50 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 20 Apr 2025 17:14:30 GMT</lastBuildDate>
 		<pubDate>Fri, 29 Dec 2023 08:30:55 GMT</pubDate>
 		<copyright>2023 © Радио «Маяк». Все права защищены.</copyright>
 		<language>ru</language>
@@ -29,6 +29,19 @@
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Relationships"/>
 		</itunes:category>
+		<item>
+			<title>Разрешить себе быть мужчиной</title>
+			<description>Пока мы жертвуем своими интересами, чтобы заслужить одобрение, мы отказываемся от тех себя, которыми мы могли бы быть, – убежден психолог и психотерапевт Анатолий Добин. Разбирались, почему мы всё время ждём, что кто-то нам разрешит и почему мы не реализуем то, что в нас уже есть, говорили о конкуренции с «братьями» и вечной игре «выбери меня, я лучше»...</description>
+			<content:encoded>Пока мы жертвуем своими интересами, чтобы заслужить одобрение, мы отказываемся от тех себя, которыми мы могли бы быть, – убежден психолог и психотерапевт Анатолий Добин. Разбирались, почему мы всё время ждём, что кто-то нам разрешит и почему мы не реализуем то, что в нас уже есть, говорили о конкуренции с «братьями» и вечной игре «выбери меня, я лучше»...</content:encoded>
+			<pubDate>Thu, 17 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2837634/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2837634</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2837634"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4700040/r/redirect"/>
+			<itunes:summary>Пока мы жертвуем своими интересами, чтобы заслужить одобрение, мы отказываемся от тех себя, которыми мы могли бы быть, – убежден психолог и психотерапевт Анатолий Добин. Разбирались, почему мы всё время ждём, что кто-то нам разрешит и почему мы не реализуем то, что в нас уже есть, говорили о конкуренции с «братьями» и вечной игре «выбери меня, я лучше»...</itunes:summary>
+			<itunes:duration>36:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Почему я не реализую свой потенциал? Мужской страх перед взрослением</title>
 			<description>Многие мужчины чувствуют нереализованный потенциал из-за внутреннего конфликта. Психолог и психотерапевт Анатолий Добин озвучил основные причины этого конфликта и рассказал, как его преодолеть.</description>
