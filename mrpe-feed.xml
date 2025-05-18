@@ -10,7 +10,7 @@
 			<link>https://smotrim.ru/podcast/1641</link>
 		</image>
 		<generator>mave podcasts</generator>
-		<lastBuildDate>Sat, 26 Apr 2025 15:56:08 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 18 May 2025 18:35:35 GMT</lastBuildDate>
 		<pubDate>Fri, 29 Dec 2023 08:30:55 GMT</pubDate>
 		<copyright>2023 © Радио «Маяк». Все права защищены.</copyright>
 		<language>ru</language>
@@ -29,6 +29,19 @@
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Relationships"/>
 		</itunes:category>
+		<item>
+			<title>Образ, в который тебя втиснули</title>
+			<description>В этом выпуске психолог и психотерапевт Анатолий Добин обсудил со Стиллавиным, Колосовой и Владиком парадокс восприятия и механизмы защиты, внутреннее сопротивление и детский отпечаток, комплекс недостойности и родительском следе, альтернативном взгляде, новой точке зрения и равном общении.</description>
+			<content:encoded>В этом выпуске психолог и психотерапевт Анатолий Добин обсудил со Стиллавиным, Колосовой и Владиком парадокс восприятия и механизмы защиты, внутреннее сопротивление и детский отпечаток, комплекс недостойности и родительском следе, альтернативном взгляде, новой точке зрения и равном общении.</content:encoded>
+			<pubDate>Thu, 15 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842470/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842470</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842470"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4700040/r/redirect"/>
+			<itunes:summary>В этом выпуске психолог и психотерапевт Анатолий Добин обсудил со Стиллавиным, Колосовой и Владиком парадокс восприятия и механизмы защиты, внутреннее сопротивление и детский отпечаток, комплекс недостойности и родительском следе, альтернативном взгляде, новой точке зрения и равном общении.</itunes:summary>
+			<itunes:duration>38:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Почему быть «овечкой Долли» — это выбор предать самого себя?</title>
 			<description>Психолог и психотерапевт Анатолий Добин рассуждает о внутреннем предательстве, внутренней измене себе, которое страшнее, чем любая измена партнёра.</description>

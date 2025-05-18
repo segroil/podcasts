@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sat, 26 Apr 2025 15:56:12 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 18 May 2025 18:35:08 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,110 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Вечный Иран и теневые империи Запада</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 14 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842453/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842453</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842453"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>10 золотых медалей на 59 Международной Менделеевской олимпиаде по химии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 13 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842051/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842051</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842051"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь Сергия Радонежского против Орды</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 12 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842044/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842044</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842044"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Творцы нового и диктатура престижного потребления искусства</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 11 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842042/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842042</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842042"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русские суперферриты. Премия Президента для молодых ученых 2024</title>
+			<description>Цикл "На острие науки".</description>
+			<content:encoded>Цикл "На острие науки".</content:encoded>
+			<pubDate>Mon, 28 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2840466/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2840466</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2840466"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "На острие науки".</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Политехнический музей — зеркало русской науки и технологий</title>
+			<description>Гости эфира – Стелла Морозова, ученый секретарь Политехнического музея, и Мария Платонова, заместитель генерального директора Политехнического музея по науке и развитию музейных фондов.</description>
+			<content:encoded>Гости эфира – Стелла Морозова, ученый секретарь Политехнического музея, и Мария Платонова, заместитель генерального директора Политехнического музея по науке и развитию музейных фондов.</content:encoded>
+			<pubDate>Sun, 27 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2839602/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2839602</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2839602"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Гости эфира – Стелла Морозова, ученый секретарь Политехнического музея, и Мария Платонова, заместитель генерального директора Политехнического музея по науке и развитию музейных фондов.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Развитие нашего медицинского приборостроения — от идеи до реализации</title>
+			<description>Цикл "Сеченовский. Наука о жизни". Гость эфира – Александр Кулиш, доктор медицинских наук, директор по коммерциализации технологий Сеченовского Университета.</description>
+			<content:encoded>Цикл "Сеченовский. Наука о жизни". Гость эфира – Александр Кулиш, доктор медицинских наук, директор по коммерциализации технологий Сеченовского Университета.</content:encoded>
+			<pubDate>Thu, 24 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2839400/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2839400</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2839400"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Сеченовский. Наука о жизни". Гость эфира – Александр Кулиш, доктор медицинских наук, директор по коммерциализации технологий Сеченовского Университета.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Электрореактивные двигатели спутников ближнего космоса. От Земли до Луны</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 23 Apr 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2839399/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2839399</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2839399"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>ГМО и гибриды кукурузы в США – основа пищевой промышленности</title>
 			<description>Цикл "Цифровое сельское хозяйство". Гость эфира – Артём Уваров, директор по производству Землякофф генетикс, эксперт сообщества "ЭлектронАгро".</description>
