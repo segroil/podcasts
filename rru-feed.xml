@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 18 May 2025 18:35:08 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 May 2025 13:50:01 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,84 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Гибель Нерона. Легионы назначают цезарей</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 22 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2844015/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2844015</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2844015"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Электрореактивные двигатели ядерных планетолетов для освоения Солнечной системы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 21 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2843622/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2843622</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2843622"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Разгадка Горбачева". Начало нового цикла. Первые шаги карьериста</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 20 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2843405/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2843405</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2843405"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Итоги Второй мировой войны. Все навоевались. СССР как сверхдержава</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 19 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2843359/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2843359</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2843359"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Образ русских князей – мучеников, спасителей и победителей Орды</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 18 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842971/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842971</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842971"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Нехватка сна и последствия синдрома апноэ у подростков и взрослых</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 15 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2842889/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2842889</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2842889"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Вечный Иран и теневые империи Запада</title>
 			<description/>
