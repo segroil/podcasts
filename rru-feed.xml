@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sat, 24 May 2025 13:50:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Jun 2025 17:22:49 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,84 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Николаевская Россия. Непривычная великая эпоха русской истории. Начало цикла</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 02 Jun 2025 17:22:49 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2845601/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2845601</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2845601"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Продразверстка по-большевистски. Накануне крестьянских восстаний</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 29 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2845559/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2845559</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2845559"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>На острие науки. Русские олимпиадники выбирают Россию</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 28 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2845096/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2845096</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2845096"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Геномная фабрика и любимые экстремофилы. Поиск новых ферментов для биоэкономики</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 27 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2844880/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2844880</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2844880"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Школа Иннопрактики и новые пути мирового искусства</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 26 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2844557/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2844557</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2844557"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская инженерная школа. Управление преобразованиями</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 25 May 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2844361/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2844361</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2844361"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Гибель Нерона. Легионы назначают цезарей</title>
 			<description/>
