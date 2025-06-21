@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sun, 08 Jun 2025 16:35:46 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 21 Jun 2025 18:02:13 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,110 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Память о войнах. Русские исторические общества в начале XX века</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 17 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2848641/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2848641</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2848641"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Святитель Лука спасает раненых бойцов Красной Армии в Красноярске</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 16 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2848404/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2848404</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2848404"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Суперкомпьютеры и электрореактивные двигатели покорения Солнечной системы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 15 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2848403/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2848403</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2848403"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Неоосманизм и мечты о Великом Туране эрдогановской Турции</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 12 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2848035/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2848035</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2848035"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Вкусное молоко, лаборатории и биотехнологии кормления коров</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 11 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2848033/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2848033</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2848033"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Путь карьериста. Молодой Горбачев делает ставку на карьеру политика</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 10 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2847382/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2847382</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2847382"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская химия на Дальнем Востоке. Новые возможности для молодых ученых</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 09 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2847376/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2847376</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2847376"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская святость XIII-XIV веков. Сергий Радонежский и правда Христова</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 08 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2847113/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2847113</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2847113"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v1/pictures/6265177/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Украинство как русское предательство и власовщина</title>
 			<description/>
