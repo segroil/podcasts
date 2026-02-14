@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<lastBuildDate>Sat, 28 Jun 2025 15:24:26 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 10:36:34 GMT</lastBuildDate>
 		<title>Российский радиоуниверситет</title>
 		<description>Научно-просветительская программа</description>
 		<link>https://smotrim.ru/brand/63253</link>
@@ -17,6 +17,1605 @@
 			<itunes:category text="Natural Sciences"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Атака в условиях катастрофы. Подвиг генерала Ф.Ф. Алябушева 22 июня 1941-го</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 10 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2892743/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2892743</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2892743"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Сверхсвойства материалов под ударом ионной пушки. Безвольфрамовые сплавы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 09 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2892314/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2892314</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2892314"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Максим Грек. Мятежный анти-Макиавелли русского царя и русский святой</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 08 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2892313/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2892313</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2892313"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь и наследие Орды. Кому должны быть благодарны русские</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 05 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2891885/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2891885</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2891885"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Юго-Восточная Азия как ключ к контролю мировой торговли</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 04 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2891395/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2891395</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2891395"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Андропов, Щелоков, Горбачев и советская мафия в 1980-х</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 03 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2891143/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2891143</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2891143"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Империя между двумя войнами. Траян и христиане</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 02 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2891142/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2891142</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2891142"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Письма о Российской империи". Разведка Николая I и образ России на Западе</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 01 Feb 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2891141/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2891141</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2891141"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>МРНК-вакцина от рака. Внедрение в раковую клетку и помощь иммунитету</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 29 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2890482/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2890482</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2890482"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Изменение климата, новые культуры и управление здоровьем поля</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 28 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2890480/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2890480</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2890480"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Эра пенициллина и конструирование новых антибиотиков</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 27 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2889791/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2889791</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2889791"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская химия ближайшего будущего. Новые кадры для новой химии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 26 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2889790/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2889790</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2889790"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Крещение Руси. Как русские люди стали русскими</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 25 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2889366/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2889366</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2889366"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Афонтова гора. От открытия мира Каменного века к воспитанию создателей будущего</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 22 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2889103/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2889103</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2889103"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Микропластик в мире и внутри человека. Мифы, страхи и наука</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 21 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2888505/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2888505</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2888505"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Активная оборона генерала Музыченко. Тяжелые бои у Львова и Умани 1941-го</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 20 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2888503/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2888503</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2888503"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>От имплантов до Марса. "Замороженные" сверхсвойства аморфных сплавов</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 19 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2888192/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2888192</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2888192"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Без утопий. Реализм Ивана Пересветова, современника Томаса Мора</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 18 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2887954/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2887954</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2887954"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Соловецкий подвиг северного развития "сконцентрированной России"</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 15 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2887706/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2887706</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2887706"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Стратегические союзы АСЕАН. Колония муравьев заставляет отступить боевого слона</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 14 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2887705/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2887705</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2887705"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Реформы больного Андропова. "Рыночники", кадровые чистки, борьба с мафией КПСС</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 13 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2887704/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2887704</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2887704"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Децебал и его война "до последнего дакийца". Вторая дакийская война Траяна</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 12 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2886800/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2886800</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2886800"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Николай I и освобождение крепостных, экономический рывок и технологии Империи</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 11 Jan 2026 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2886798/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2886798</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2886798"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Президент и молодые ученые. Какое будущее строит Россия</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 30 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2886299/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2886299</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2886299"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Нобелевская физика и натурфилософия будущего. Квантовые итоги 2025 года</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 25 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2884385/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2884385</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2884385"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Путь в космонавтику, популяризация космоса и воспитание инженерных гениев</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 24 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2884384/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2884384</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2884384"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Белковая кристаллография. Как увидеть структуру молекулы живого белка</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 23 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2883914/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2883914</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2883914"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Электронный "нос и язык", масс-спектрометрия и опережающее развитие России</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 22 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2883903/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2883903</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2883903"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Социалистическая земельная реформа барона Врангеля в Крыму 1920 года</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 21 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2883498/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2883498</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2883498"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Научная школа сибирской археологии. Ученые, подвижники, педагоги</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 17 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2883000/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2883000</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2883000"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Клеточная терапия рака. От терапии лейкоза к лечению меланомы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 16 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2882754/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2882754</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2882754"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Долгосрочное изучение ионосферы. Динамика околоземного электромагнитного климата</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 15 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2882542/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2882542</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2882542"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Как русь стала Русью. Русь изначальная в X веке</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 14 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2882309/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2882309</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2882309"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Такая уязвимая Арктика и архангельская школа аналитической химии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 11 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2882044/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2882044</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2882044"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>От моделирования биофизики клеток к сознанию искусственного интеллекта</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 10 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2881595/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2881595</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2881595"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Цифровая среда сельского хозяйства и жизни аграриев</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 09 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2881383/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2881383</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2881383"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Командиры Великой Отечественной. Судьбы героев. Начало цикла</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 08 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2881229/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2881229</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2881229"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Утопия Федора Карпова. Идеалы государства русских мыслителей XVI века</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 07 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2880951/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2880951</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2880951"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Соловки. Русский форпост на Севере. Подвижники, строители, мыслители</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 04 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2880641/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2880641</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2880641"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Юго-Восточная Азия: горячая зона конкуренции глобальных игроков</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 03 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2880640/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2880640</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2880640"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Андроповский "подлесок" М.С. Горбачев прячется в тени Л.И. Брежнева</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 02 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2880004/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2880004</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2880004"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Первая дакийская война императора Траяна. Стратегия войны и перемирия</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 01 Dec 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2879821/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2879821</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2879821"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Триада либерала Уварова: самодержавие, православие народность</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 30 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2879590/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2879590</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2879590"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Создатели будущего. V конгресс молодых ученых России</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 27 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2879366/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2879366</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2879366"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Белковая кристаллография. Изучение "устройств белковой жизни" на синхротронах</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 26 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2878899/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2878899</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2878899"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Университет 4-го поколения для инженеров-создателей будущего</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 24 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2878436/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2878436</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2878436"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Советская власть барона Врангеля и земельная реформа А.В. Кривошеина</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 23 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2878222/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2878222</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2878222"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь изначальная и Степь. Русь и Восток в IX-X веках</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 20 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2877974/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2877974</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2877974"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Польза и вред витаминов А, D и омега-3 жирных кислот при онкологии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 19 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2877597/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2877597</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2877597"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Неандертальцы, русские города в Сибири. VII археологический съезд в Красноярске</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 16 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2876868/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2876868</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2876868"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Цифровая медицинская химия рассчитывает противовирусные молекулы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 13 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2876382/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2876382</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2876382"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Координационные комплексы меди и редкоземельных металлов. Русская химия</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 12 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2876381/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2876381</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2876381"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Российские спутники "Ионосфера" и обнаружение предвестников землетрясений</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 10 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2875716/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2875716</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2875716"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Нил Сорский, ересь жидовствующих и пути духовного спасения Руси</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 09 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2875454/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2875454</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2875454"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Митрополит Макарий и Елена Глинская. Воспитатели Ивана Грозного</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 06 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2875171/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2875171</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2875171"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Военная и промышленная перестройка Индии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 05 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2874774/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2874774</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2874774"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Идеальный карьерист Горбачев под крылышком Суслова в ЦК КПСС</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 04 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2874542/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2874542</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2874542"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Римский орел готовится к полету на Карпаты. Реформы императора Траяна</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 03 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2874220/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2874220</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2874220"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Неожиданный граф Уваров: западник и просветитель николаевской России</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 02 Nov 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2874219/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2874219</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2874219"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Синхротронные исследования и проектирование новых лекарств и материалов</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 30 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2874218/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2874218</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2874218"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Международное сотрудничество молодых ученых</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 28 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2873255/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2873255</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2873255"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Агрообразование специалистов для биологической цивилизации Россия</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 27 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2873183/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2873183</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2873183"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Левая аграрная политика левыми руками. Советская власть по-колчаковски</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 26 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2872959/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2872959</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2872959"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Делами, не словами". Демидовы и Россия. Россия и Демидовы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 23 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2872343/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2872343</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2872343"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Мягкая материя, фотоника и биомедицинская инженерия будущего</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 22 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2767133/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2767133</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2767133"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Эффективность бизнеса и национальные интересы России. Не только прибыль</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 21 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2871828/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2871828</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2871828"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Сталин на фронте. Накануне операции "Суворов" осенью 1943 года</title>
+			<description>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</description>
+			<content:encoded>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</content:encoded>
+			<pubDate>Mon, 20 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2729005/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2729005</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2729005"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Малоизвестная Великая Отечественная". Гость эфира – Алексей Валерьевич Исаев, кандидат исторических наук, старший научный сотрудник Института военной истории Министерства обороны России.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь изначальная в пространстве и времени средневековой Европы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 19 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2871437/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2871437</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2871437"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Ивановская химическая школа. От химии красителей к "живой" химии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 16 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2871026/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2871026</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2871026"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Моделирование "умных" электросетей и обеспечение качества электроэнергии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 15 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2870724/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2870724</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2870724"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Ионосфера". История изучения космического околоземного океана электричества</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 14 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2870593/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2870593</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2870593"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Онкология и витамины. Витамины группы В и витамин С</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 13 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2870349/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2870349</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2870349"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Иосифляне и нестяжатели. Выбор будущего Руси</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 12 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2870150/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2870150</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2870150"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>От Ивана Третьего до Ивана Грозного. Максим Грек и Елена Глинская</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 09 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2869917/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2869917</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2869917"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Хитрая Индия. Мягкая сила региональной сверхдержавы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 08 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2869916/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2869916</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2869916"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>КГБ СССР возвышает Горбачева. Спецоперация Андропова и Суслова</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 07 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2869301/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2869301</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2869301"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Падение Флавиев, Траян и начало эпохи "хороших императоров"</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 06 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2869061/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2869061</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2869061"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Реформы Николая Первого. Удачные, противоречивые, неоднозначные</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 05 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2868837/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2868837</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2868837"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:26</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Генетические исследования инсульта</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 02 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2868562/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2868562</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2868562"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Инвестируем толпой. Краудфандинг в мире и в России</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 01 Oct 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2868147/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2868147</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2868147"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Межвузовская студенческая инженерно-технологическая корпорация</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 30 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2867938/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2867938</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2867938"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Молодые ученые и Международная ассоциация академий наук</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 29 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2867712/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2867712</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2867712"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Деникинская аграрная реформа как продолжение столыпинских преобразований</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 28 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2867505/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2867505</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2867505"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь изначальная. Откуда есть пошла Русская Земля. Источники наших знаний</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 25 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2867186/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2867186</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2867186"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русская химия в Волгоградском техническом университете. Наследники и творцы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 22 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2866367/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2866367</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2866367"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Подсолнечник в России. Генетические технологии гибридной селекции</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 21 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2866028/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2866028</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2866028"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:40</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русский лес, лесное хозяйство и будущее России</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 18 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2865909/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2865909</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2865909"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>КГБ СССР расчищает дорогу в Москву для идеального карьериста Горбачева</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 16 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2865908/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2865908</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2865908"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Спутники "Ионосфера" изучают околоземный океан электричества</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 15 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2865105/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2865105</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2865105"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Народовластие и самодержавие на Руси. Симфония или противостояние</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 14 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2865103/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2865103</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2865103"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Иван Третий. Политика, культура и мировоззрение Русской державы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 11 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2864681/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2864681</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2864681"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Разгром Японии. Тихоокеанский театр Второй Мировой 1939-1945</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 09 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2864128/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2864128</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2864128"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Дакия бросает вызов Риму. Империя снова в войнах</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 08 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2863721/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2863721</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2863721"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Николай Первый создает команду реформ. Консерватор с прогрессом</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 07 Sep 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2863720/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2863720</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2863720"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русский лен. Расцвет масличного льна</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 13 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2859065/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2859065</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2859065"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Рождение Российского царства. Духовно-политические истоки</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 12 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2858849/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2858849</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2858849"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Ставропольская школа органической химии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 11 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2858644/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2858644</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2858644"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Экспедиция на реку Чадобец 2025. Возвращение русских домой</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 10 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2858429/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2858429</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2858429"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Собирание Руси в XV веке и рождение идеи "Москва – Третий Рим</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 07 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2858153/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2858153</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2858153"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Индия. Уязвимый гигант неприсоединения</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 06 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2857780/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2857780</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2857780"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Офицеры Победы 1945-го. Чему научились советские командиры за войну</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 05 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2857565/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2857565</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2857565"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>33 несчастья Флавиев и Серебряный век римской культуры</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 04 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2857330/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2857330</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2857330"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Николай Первый. Блестящий военный инженер, император всероссийский</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 03 Aug 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2857014/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2857014</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2857014"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>МИФИ. Поступить в ядерный университет. Больше чем ядерный</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 31 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2856909/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2856909</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2856909"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Человеку удалили половину тела. Уникальная операция в Центре им. Блохина</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 30 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2856379/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2856379</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2856379"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Школа молодых ученых, корсоветник и стажеры Координационного совета</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 29 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2856372/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2856372</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2856372"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Уфимская директория, правительство Колчака и большевистская пропаганда</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 28 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2856029/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2856029</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2856029"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Расшифровка генома. Чтение и ремонт "генетической библиотеки"</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 27 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2855823/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2855823</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2855823"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Генетические эпидемии, генетическое оружие и генетическое здоровье народа</title>
+			<description>Цикл "Медицинская генетика для каждого". Гость эфира – Рена Зинченко, заслуженный деятель наук Российской Федерации, член-корреспондент Российской академии наук, профессор, заместитель директора по научно-клинической работе, заведующая лабораторией генетической эпидемиологии, заведующая кафедрой организации здравоохранения общественного здоровья и медико-генетического мониторинга, врач-генетик.</description>
+			<content:encoded>Цикл "Медицинская генетика для каждого". Гость эфира – Рена Зинченко, заслуженный деятель наук Российской Федерации, член-корреспондент Российской академии наук, профессор, заместитель директора по научно-клинической работе, заведующая лабораторией генетической эпидемиологии, заведующая кафедрой организации здравоохранения общественного здоровья и медико-генетического мониторинга, врач-генетик.</content:encoded>
+			<pubDate>Thu, 24 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2767318/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2767318</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2767318"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary>Цикл "Медицинская генетика для каждого". Гость эфира – Рена Зинченко, заслуженный деятель наук Российской Федерации, член-корреспондент Российской академии наук, профессор, заместитель директора по научно-клинической работе, заведующая лабораторией генетической эпидемиологии, заведующая кафедрой организации здравоохранения общественного здоровья и медико-генетического мониторинга, врач-генетик.</itunes:summary>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Загадки физики. Что мы знаем о том, чего не знаем</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 23 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2855175/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2855175</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2855175"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Раскаленные глубины Земли в уникальном отечественном оборудовании</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 22 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2854972/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2854972</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2854972"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русь изначальная. История для физиков атомного проекта и всего народа</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 21 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2854795/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2854795</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2854795"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Поступление в МГТУ им. Баумана: особенности конкурса и новые профессии</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 20 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2854533/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2854533</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2854533"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Излечение рака молочной железы. Правила онкологической гигиены</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 17 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2854532/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2854532</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2854532"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Ad astra! XIV ракетный чемпионат Воздушно-инженерной школы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 15 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2853883/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2853883</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2853883"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Грамотная роскошь первопроходцев старого Енисейска</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 13 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2853657/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2853657</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2853657"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Наследие Сергия Радонежского. Троица как образ русской государственности</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 06 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2852183/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2852183</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2852183"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Рождение СССР как промышленной сверхдержавы в годы Великой Отечественной войны</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Thu, 03 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2852182/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2852182</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2852182"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Русские подвижники после Куликовской битвы</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 02 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2851522/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2851522</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2851522"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Пакистан — азиатский гигант с британскими корнями проблем</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Tue, 01 Jul 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2851521/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2851521</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2851521"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Безродные Флавии. Вторая династия Римской империи</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Mon, 30 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2851051/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2851051</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2851051"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>"Случайный" самый русский император Николай Первый. Детство и воспитание</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Sun, 29 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2850838/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2850838</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2850838"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Изучение и персонализированное лечение рака в Сеченовском университете</title>
+			<description/>
+			<content:encoded/>
+			<pubDate>Wed, 25 Jun 2025 21:00:00 GMT</pubDate>
+			<link>https://player.smotrim.ru/iframe/audio/id/2850586/sid/smotrim/muted/false</link>
+			<guid isPermaLink="false">2850586</guid>
+			<enclosure type="audio/mpeg" url="https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2850586"/>
+			<itunes:image href="https://cdnapi.smotrim.ru/api/v2/pictures/4946295/r/redirect"/>
+			<itunes:summary/>
+			<itunes:duration>45:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Как правильно поступить в Бауманку? Мама, я буду инженером!</title>
 			<description/>
